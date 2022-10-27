@@ -1,1 +1,2 @@
-# is-prime-package
+# is-prime-val
+# npm-package
