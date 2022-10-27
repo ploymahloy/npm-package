@@ -1,5 +1,9 @@
 ## is-prime-val package
 
+### Demo: https://youtu.be/gqk4LvPp50I
+
+### Instructions:
+
 1. Install the package using npm
 ```
 npm install is-prime-val
